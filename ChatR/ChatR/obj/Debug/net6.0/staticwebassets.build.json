@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "HZ0sSDMQTktCZtQluSNqZ9I0jRM68LFG08UcEO0VCsE=",
+  "Source": "ChatR",
+  "BasePath": "_content/ChatR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatR\\wwwroot",
+      "Source": "ChatR",
+      "ContentRoot": "E:\\Programing\\C#\\PetProjects\\ChatR\\ChatR\\ChatR\\ChatR\\wwwroot\\",
+      "BasePath": "_content/ChatR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Programing\\C#\\PetProjects\\ChatR\\ChatR\\ChatR\\ChatR\\wwwroot\\index.html",
+      "SourceId": "ChatR",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Programing\\C#\\PetProjects\\ChatR\\ChatR\\ChatR\\ChatR\\wwwroot\\",
+      "BasePath": "_content/ChatR",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\Programing\\C#\\PetProjects\\ChatR\\ChatR\\ChatR\\ChatR\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "SourceId": "ChatR",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Programing\\C#\\PetProjects\\ChatR\\ChatR\\ChatR\\ChatR\\wwwroot\\",
+      "BasePath": "_content/ChatR",
+      "RelativePath": "js/signalr/dist/browser/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    }
+  ]
+}
